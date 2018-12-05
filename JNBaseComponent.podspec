@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/953995648@qq.com/JNBaseComponent'
+  s.homepage         = 'https://dev.tencent.com/u/IT_Q/p/JNBaseComponent'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '953995648@qq.com' => '953995648@qq.com' }
-  s.source           = { :git => 'https://github.com/953995648@qq.com/JNBaseComponent.git', :tag => s.version.to_s }
+  s.author           = { 'JN_IT' => '953995648@qq.com' }
+  s.source           = { :git => 'https://git.dev.tencent.com/IT_Q/JNBaseComponent.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
