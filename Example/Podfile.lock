@@ -1,0 +1,16 @@
+PODS:
+  - JNBaseComponent (0.1.0)
+
+DEPENDENCIES:
+  - JNBaseComponent (from `../`)
+
+EXTERNAL SOURCES:
+  JNBaseComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JNBaseComponent: ed7429d6f07d1c01d2ec574a20491ebed6e76ba9
+
+PODFILE CHECKSUM: 9e59fd904b336f9abd6590d859225db4e7a89bd1
+
+COCOAPODS: 1.6.0.beta.2

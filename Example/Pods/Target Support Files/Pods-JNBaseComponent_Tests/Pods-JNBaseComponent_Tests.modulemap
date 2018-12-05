@@ -1,0 +1,6 @@
+framework module Pods_JNBaseComponent_Tests {
+  umbrella header "Pods-JNBaseComponent_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

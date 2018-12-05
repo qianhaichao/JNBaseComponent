@@ -1,0 +1,6 @@
+framework module JNBaseComponent {
+  umbrella header "JNBaseComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}
